@@ -1,0 +1,8 @@
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\bin\Release\[Pr.] Text Editor.exe.config
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\bin\Release\[Pr.] Text Editor.exe
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\bin\Release\[Pr.] Text Editor.pdb
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Release\_Pr.__Text_Editor.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Release\_Pr.__Text_Editor.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Release\[Pr.] Text Editor.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Release\[Pr.] Text Editor.exe
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Release\[Pr.] Text Editor.pdb

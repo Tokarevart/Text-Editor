@@ -1,0 +1,10 @@
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\bin\Debug\[Pr.] Text Editor.exe.config
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\bin\Debug\[Pr.] Text Editor.exe
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\bin\Debug\[Pr.] Text Editor.pdb
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Debug\[Pr.] Text Editor.csprojResolveAssemblyReference.cache
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Debug\_Pr.__Text_Editor.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Debug\_Pr.__Text_Editor.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Debug\[Pr.] Text Editor.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Debug\[Pr.] Text Editor.exe
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Debug\[Pr.] Text Editor.pdb
+F:\Programming\Программы\C#\[Pr.] Text Editor\[Pr.] Text Editor\obj\Debug\_Pr.__Text_Editor.MyFindForm.resources
